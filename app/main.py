@@ -2,8 +2,6 @@ from fastapi import FastAPI
 
 import data.users
 import data.buses
-import data.passengers
-import data.drivers
 
 app = FastAPI()
 
